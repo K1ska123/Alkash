@@ -1,0 +1,11 @@
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.exe
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.pdb
+C:\Users\Никита\Documents\GitHub\Alkash\bin\Debug\Calculator.exe.config
+C:\Users\Никита\Documents\GitHub\Alkash\bin\Debug\Calculator.exe
+C:\Users\Никита\Documents\GitHub\Alkash\bin\Debug\Calculator.pdb
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.csproj.csproj.AssemblyReference.cache
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.csproj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.Form1.resources
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.csproj.csproj.GenerateResource.cache
+C:\Users\Никита\Documents\GitHub\Alkash\obj\Debug\Calculator.csproj.csproj.CoreCompileInputs.cache
